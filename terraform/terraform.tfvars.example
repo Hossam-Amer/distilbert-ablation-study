@@ -1,0 +1,4 @@
+project_id = "your-gcp-project-id"
+
+# Try europe-west1-c, europe-west1-d, or europe-west3-b if T4 capacity is unavailable.
+zone = "europe-west1-b"

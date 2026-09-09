@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+work/
+outputs/
+results/
+gcp-results*/
+*.pt
+*.safetensors
+.env*
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.tfvars
+!terraform/terraform.tfvars.example
+terraform/crash.log
